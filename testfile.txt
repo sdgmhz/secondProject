@@ -3,3 +3,5 @@ second line added
 whatever
 second openning here
 another whatever
+line 6
+line 7
