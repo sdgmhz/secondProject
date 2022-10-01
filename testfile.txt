@@ -3,6 +3,6 @@ second line added
 whatever
 second openning here
 another whatever
-line 6
 line 7 edited
 line 8
+line 9
